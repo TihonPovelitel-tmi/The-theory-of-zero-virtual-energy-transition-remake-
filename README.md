@@ -1,4 +1,4 @@
-# The-theory-of-zero-virtual-energy-transition-remake-
+# The-theory-of-zero-virtual-energy-transition-(remake)-
 
 ## Основная формула  
 \[  
